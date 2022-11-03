@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T18:11:40.020Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.1" etag="fr5IpuNu9oEWZR6MA8qQ" type="github"><diagram id="VIIt1fW31jD5J5mNbSCx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-03T18:30:20.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EFSZpso9-DESNDEfVdN1" version="20.5.1" type="github">
+  <diagram id="VIIt1fW31jD5J5mNbSCx" name="第 1 页">
+    <mxGraphModel dx="1378" dy="721" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="THkGi74RBncp5nxliQXX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.083;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="THkGi74RBncp5nxliQXX-1" target="THkGi74RBncp5nxliQXX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.389;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="THkGi74RBncp5nxliQXX-1" target="THkGi74RBncp5nxliQXX-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-1" value="用户验证系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-2" value="SMC用户权限表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-5" value="用户登录信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="THkGi74RBncp5nxliQXX-6" target="THkGi74RBncp5nxliQXX-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.883;exitY=1.033;exitDx=0;exitDy=0;entryX=0.063;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="THkGi74RBncp5nxliQXX-6" target="THkGi74RBncp5nxliQXX-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="352" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-6" value="CDP系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="290" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-8" value="验证通过信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.075;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="THkGi74RBncp5nxliQXX-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="290" as="sourcePoint" />
+            <mxPoint x="650" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-10" value="CDP系统用户对应的SMC用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="250" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="THkGi74RBncp5nxliQXX-11" target="THkGi74RBncp5nxliQXX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="THkGi74RBncp5nxliQXX-11" target="THkGi74RBncp5nxliQXX-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-11" value="SMC人群画像推送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-13" value="SMC人群表和SMC画像表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="400" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-15" value="人群画像推送信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="THkGi74RBncp5nxliQXX-16" target="THkGi74RBncp5nxliQXX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.45;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="THkGi74RBncp5nxliQXX-16" target="THkGi74RBncp5nxliQXX-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="762" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-16" value="SMC系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-18" value="人群文件和描述信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="470" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-19" value="SMC人群画像匹配率表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="515" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-22" value="smc回调cdp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-24" value="SMC历史推送记录表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="250" y="395" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="THkGi74RBncp5nxliQXX-27" value="人群画像推送信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="405" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
