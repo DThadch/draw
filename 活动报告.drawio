@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T06:29:16.502Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="a87flxXOuWkcLvmfJF84" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T06:56:01.673Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ppXP-alWUxZaK7HGKfLK" version="21.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2891" dy="1631" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1830" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -85,7 +85,7 @@
             <mxPoint x="398.76" y="496.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dFzb2xotskJWM5kpIQJ3-23" value="输入（人群、触达类别、活动周期、购买渠道）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;fillColor=#99CCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dFzb2xotskJWM5kpIQJ3-23" value="输入（触达类别、活动周期、购买渠道）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;fillColor=#99CCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="227" y="28" width="346" height="54" as="geometry" />
         </mxCell>
         <mxCell id="dFzb2xotskJWM5kpIQJ3-24" value="计算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;fillColor=#99CCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -126,13 +126,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dFzb2xotskJWM5kpIQJ3-35" value="整体人群数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="960" width="130" height="51.88" as="geometry" />
+          <mxGeometry x="764" y="961.25" width="130" height="51.88" as="geometry" />
         </mxCell>
         <mxCell id="dFzb2xotskJWM5kpIQJ3-36" value="全部公司数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="910" y="960" width="130" height="51.88" as="geometry" />
-        </mxCell>
-        <mxCell id="dFzb2xotskJWM5kpIQJ3-37" value="分公司数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1110" y="959.06" width="130" height="51.88" as="geometry" />
+          <mxGeometry x="1091" y="960" width="130" height="51.88" as="geometry" />
         </mxCell>
         <mxCell id="dFzb2xotskJWM5kpIQJ3-38" value="cdp人群和中间表对撞，圈出人群明细数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1105" y="523" width="271" height="10" as="geometry" />
