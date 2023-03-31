@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T07:41:21.877Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZhvJkMQv7WgZvJpuTa3C" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T07:42:36.554Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hPv_jb5B3QTXGbcRCKlV" version="21.1.2" type="github">
   <diagram name="第 1 页" id="9FNGOSTYdFmzoKh4jky8">
     <mxGraphModel dx="3369" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="239.5" y="168" width="64" height="191" as="geometry" />
         </mxCell>
         <mxCell id="w8Ea4wfVR7hNAdVZ4RfK-5" value="安全岛" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#99CCFF;" vertex="1" parent="1">
-          <mxGeometry x="741" y="101" width="508" height="626" as="geometry" />
+          <mxGeometry x="741" y="106" width="508" height="626" as="geometry" />
         </mxCell>
         <mxCell id="w8Ea4wfVR7hNAdVZ4RfK-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -31,7 +31,7 @@
             <mxPoint x="418" y="481" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w8Ea4wfVR7hNAdVZ4RfK-12" value="1、出包（did）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="w8Ea4wfVR7hNAdVZ4RfK-12" value="1、出包（pid+分值）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="492" y="495" width="143" height="28" as="geometry" />
         </mxCell>
         <mxCell id="w8Ea4wfVR7hNAdVZ4RfK-13" value="SMC公域画像" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#99CCFF;" vertex="1" parent="1">
@@ -75,6 +75,15 @@
         </mxCell>
         <mxCell id="w8Ea4wfVR7hNAdVZ4RfK-23" value="高潜模型训练，进行打分" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="857" y="168" width="285" height="125.5" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Ea4wfVR7hNAdVZ4RfK-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.514;entryY=0.404;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="w8Ea4wfVR7hNAdVZ4RfK-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1002" y="299" as="sourcePoint" />
+            <mxPoint x="1052" y="249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w8Ea4wfVR7hNAdVZ4RfK-25" value="出结果集（pid+分值）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="924" y="369" width="167" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
