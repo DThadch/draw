@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T07:34:49.122Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GGQtrf84Cd81j16iHM44" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T07:35:27.769Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gjPcCJM2oKxfvt4MNrpx" version="21.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2160" dy="1937" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="1937" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -73,35 +73,32 @@
         <mxCell id="dFzb2xotskJWM5kpIQJ3-21" value="按照输入的维度（区域、类型）聚合分组" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1166" y="629.5" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dFzb2xotskJWM5kpIQJ3-26" value="呈现" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;fillColor=#99CCFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="333" y="898" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="dFzb2xotskJWM5kpIQJ3-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="635" y="868.13" width="700" height="130" as="geometry" />
+          <mxGeometry x="1680" y="663" width="700" height="130" as="geometry" />
         </mxCell>
         <mxCell id="dFzb2xotskJWM5kpIQJ3-29" value="web页面表格展示、Excele下载" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=14;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1426" y="901.5" width="199" height="74.88" as="geometry" />
+          <mxGeometry x="2471" y="696.37" width="199" height="74.88" as="geometry" />
         </mxCell>
         <mxCell id="dFzb2xotskJWM5kpIQJ3-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=15;fontSize=14;fontColor=#000000;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="486" y="914.75" width="130" height="33.75" as="geometry" />
+          <mxGeometry x="1531" y="709.62" width="130" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="dFzb2xotskJWM5kpIQJ3-32" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontSize=14;fontColor=#000000;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1346" y="923.94" width="70" height="30" as="geometry" />
+          <mxGeometry x="2391" y="718.8100000000001" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dFzb2xotskJWM5kpIQJ3-33" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;strokeWidth=5;fontSize=14;fontColor=#000000;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1704" y="868.13" width="90" height="154.38" as="geometry" />
+          <mxGeometry x="2749" y="663" width="90" height="154.38" as="geometry" />
         </mxCell>
         <mxCell id="dFzb2xotskJWM5kpIQJ3-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;width=12.857142857142858;endSize=4.614285714285715;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1635" y="946.68" as="sourcePoint" />
-            <mxPoint x="1695" y="946.68" as="targetPoint" />
+            <mxPoint x="2680" y="741.55" as="sourcePoint" />
+            <mxPoint x="2740" y="741.55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dFzb2xotskJWM5kpIQJ3-35" value="整体人群数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="755" y="913" width="130" height="51.88" as="geometry" />
+          <mxGeometry x="1800" y="707.87" width="130" height="51.88" as="geometry" />
         </mxCell>
         <mxCell id="dFzb2xotskJWM5kpIQJ3-36" value="全部公司数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1070" y="913" width="130" height="51.88" as="geometry" />
+          <mxGeometry x="2115" y="707.87" width="130" height="51.88" as="geometry" />
         </mxCell>
         <mxCell id="dFzb2xotskJWM5kpIQJ3-38" value="cdp人群和中间表对撞，圈出人群明细数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1151" y="462.5" width="271" height="10" as="geometry" />
