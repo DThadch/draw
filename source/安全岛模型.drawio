@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T03:02:05.690Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xu4524_e1QPo5KIZUvOO" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T03:04:35.899Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DpTrffpYS7hezJECNVHP" version="21.1.2" type="github">
   <diagram name="第 1 页" id="9FNGOSTYdFmzoKh4jky8">
     <mxGraphModel dx="2020" dy="895" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,13 +160,13 @@
         <mxCell id="Abss3pmhYK2xFXCI5BWD-119" value="IDmapping及计算" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="468" y="642" width="143" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="Abss3pmhYK2xFXCI5BWD-120" value="cdp活动推送" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Abss3pmhYK2xFXCI5BWD-120" value="公众号触达" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="922.5" y="702.5" width="386" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="Abss3pmhYK2xFXCI5BWD-123" value="model_result模型表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Abss3pmhYK2xFXCI5BWD-123" value="企业微信触达" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="923" y="755" width="386" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="Abss3pmhYK2xFXCI5BWD-124" value="model_result模型表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Abss3pmhYK2xFXCI5BWD-124" value="短信投放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="923" y="806" width="386" height="36.5" as="geometry" />
         </mxCell>
       </root>
