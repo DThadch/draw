@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T07:52:47.011Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="F-U1DPDhsjXzMDRdXfls" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T07:56:15.863Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="fCF77t0YgTgSL1WdrGTD" version="21.1.2" type="github">
   <diagram name="第 1 页" id="7fXY0yZBquvqDx3KHDn1">
     <mxGraphModel dx="2331" dy="1966" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,29 +97,29 @@
         <mxCell id="VDL4ZSIlyJueon5hfBDS-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;strokeColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1217" y="-706" width="543" height="359" as="geometry" />
         </mxCell>
-        <mxCell id="VDL4ZSIlyJueon5hfBDS-62" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;td大库&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1291" y="-633" width="409" height="59" as="geometry" />
+        <mxCell id="VDL4ZSIlyJueon5hfBDS-62" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;did、tag1、tag2&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1291" y="-593.5" width="409" height="59" as="geometry" />
         </mxCell>
         <mxCell id="VDL4ZSIlyJueon5hfBDS-63" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;did文件&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1291" y="-480" width="404" height="75" as="geometry" />
+          <mxGeometry x="1293.5" y="-467" width="404" height="75" as="geometry" />
         </mxCell>
         <mxCell id="VDL4ZSIlyJueon5hfBDS-64" value="&lt;font color=&quot;#ffffff&quot;&gt;数据&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1212" y="-609" width="98.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VDL4ZSIlyJueon5hfBDS-65" value="&lt;font color=&quot;#ffffff&quot;&gt;结果&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1212" y="-457" width="98.5" height="35" as="geometry" />
+          <mxGeometry x="1214.75" y="-441" width="98.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="VDL4ZSIlyJueon5hfBDS-66" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 22px;&quot;&gt;安全岛&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1426.5" y="-693" width="98.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VDL4ZSIlyJueon5hfBDS-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1483" y="-568" as="sourcePoint" />
-            <mxPoint x="1483" y="-487" as="targetPoint" />
+            <mxPoint x="1488" y="-529" as="sourcePoint" />
+            <mxPoint x="1488" y="-480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VDL4ZSIlyJueon5hfBDS-70" value="IDmapping" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1514" y="-545" width="60" height="30" as="geometry" />
+        <mxCell id="VDL4ZSIlyJueon5hfBDS-70" value="IDmapping" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1527" y="-518" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VDL4ZSIlyJueon5hfBDS-72" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -219,6 +219,9 @@
         </mxCell>
         <mxCell id="VDL4ZSIlyJueon5hfBDS-113" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=15;rotation=-180;direction=north;" vertex="1" parent="1">
           <mxGeometry x="370.25" y="214" width="46.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VDL4ZSIlyJueon5hfBDS-117" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;{pid1:did1,pid2:did}&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1291" y="-663" width="409" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
