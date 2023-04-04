@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T09:28:26.111Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VuQ4GGnMZZXMaakqc-VU" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T09:38:40.887Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gidLbcVH4xxv11ZtlKMh" version="21.1.2" type="github">
   <diagram name="第 1 页" id="7fXY0yZBquvqDx3KHDn1">
     <mxGraphModel dx="2160" dy="1937" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,10 +83,10 @@
           <mxGeometry x="68" y="80.5" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VDL4ZSIlyJueon5hfBDS-96" value="受众、画像任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="210" y="-224" width="461" height="45" as="geometry" />
+          <mxGeometry x="208" y="-259" width="461" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VDL4ZSIlyJueon5hfBDS-97" value="受众、画像构建详情" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="208" y="-121" width="464" height="45" as="geometry" />
+          <mxGeometry x="206.5" y="-194" width="464" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VDL4ZSIlyJueon5hfBDS-100" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;受众文件列表&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="871.5" y="-404" width="400.5" height="59" as="geometry" />
@@ -159,15 +159,27 @@
         </mxCell>
         <mxCell id="VDL4ZSIlyJueon5hfBDS-144" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="695" y="-198.7500000000001" as="sourcePoint" />
-            <mxPoint x="754" y="-199" as="targetPoint" />
+            <mxPoint x="693" y="-227.08000000000013" as="sourcePoint" />
+            <mxPoint x="752" y="-227.33" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="725" y="-227.16" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VDL4ZSIlyJueon5hfBDS-145" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="749.5" y="-102.00000000000006" as="sourcePoint" />
-            <mxPoint x="689" y="-102.00000000000006" as="targetPoint" />
+            <mxPoint x="747.5" y="-154.33000000000004" as="sourcePoint" />
+            <mxPoint x="687" y="-154.33000000000004" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VDL4ZSIlyJueon5hfBDS-146" value="azkaban调度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="96.25" y="-95" width="189.75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="VDL4ZSIlyJueon5hfBDS-149" value="stream API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="-95" width="182.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="VDL4ZSIlyJueon5hfBDS-150" value="cloud server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="559" y="-95" width="164.75" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
