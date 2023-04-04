@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T07:14:46.698Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kZOTgrasEv2S7DnGFj93" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T07:20:36.600Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="bp8xMlV_jkPpepfjO3mW" version="21.1.2" type="github">
   <diagram name="第 1 页" id="jkvh4A5DkbGee7e1IqiZ">
     <mxGraphModel dx="2880" dy="2316" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -181,14 +181,14 @@
         <mxCell id="-sx49MDDap_tLkrFsJoD-101" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;业务应用&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1420.25" y="-258" width="98.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-sx49MDDap_tLkrFsJoD-102" value="公众号触达" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-sx49MDDap_tLkrFsJoD-102" value="补充现有标签" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1283" y="-206.5" width="386" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="-sx49MDDap_tLkrFsJoD-103" value="企业微信触达" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1283" y="-155" width="386" height="36.5" as="geometry" />
+        <mxCell id="-sx49MDDap_tLkrFsJoD-103" value="丰富用户画像" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="-117.5" width="386" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="-sx49MDDap_tLkrFsJoD-104" value="短信投放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1283" y="-102" width="386" height="36.5" as="geometry" />
+        <mxCell id="-sx49MDDap_tLkrFsJoD-104" value="人群洞察" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1283" y="-43" width="386" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="-sx49MDDap_tLkrFsJoD-105" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=15;" vertex="1" parent="1">
           <mxGeometry x="850" y="-93" width="213" height="70" as="geometry" />
