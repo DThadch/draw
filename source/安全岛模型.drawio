@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T13:50:59.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_HD0HweU4Ze7CeytI0i4" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T00:40:40.235Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mGmvNBiumsVRp6oBpk7s" version="21.1.2" type="github">
   <diagram name="第 1 页" id="9FNGOSTYdFmzoKh4jky8">
-    <mxGraphModel dx="1994" dy="1058" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1994" dy="1049" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
         <mxCell id="Abss3pmhYK2xFXCI5BWD-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000066;opacity=40;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="210.87" y="410" width="545.75" height="232" as="geometry" />
         </mxCell>
-        <mxCell id="Abss3pmhYK2xFXCI5BWD-61" value="模型表和模型中间表通过pid关联，以及输入的分值标准划分高价值低价值人群" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Abss3pmhYK2xFXCI5BWD-61" value="模型表和模型中间表通过pid关联，以及根据输入的分值标准划分高价值低价值人群" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="453" y="679" width="319" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Abss3pmhYK2xFXCI5BWD-62" value="one_id、手机号、分公司、企微外部联系人、导购ID、人群名称（是否高价值）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=14;" vertex="1" parent="1">
