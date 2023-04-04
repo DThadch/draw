@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T07:47:18.950Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_JhW-fua7LqQ_XxNBWob" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T09:29:03.859Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="zmmKbOr4SYrjGQ7qVmXH" version="21.1.2" type="github">
   <diagram name="第 1 页" id="9FNGOSTYdFmzoKh4jky8">
-    <mxGraphModel dx="2175" dy="978" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2020" dy="853" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
         <mxCell id="Abss3pmhYK2xFXCI5BWD-52" value="&lt;font color=&quot;#ffffff&quot;&gt;模型中间表&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="224" y="445" width="98.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Abss3pmhYK2xFXCI5BWD-64" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;特征工程、XGBoost、LR、模型训练、预测&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Abss3pmhYK2xFXCI5BWD-64" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;特征工程、XGBoost、LR、模型训练、预测&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="911" y="354" width="409" height="97" as="geometry" />
         </mxCell>
         <mxCell id="Abss3pmhYK2xFXCI5BWD-74" value="one_id、手机号、分公司" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#10739e;fontSize=14;" vertex="1" parent="1">
@@ -115,7 +115,7 @@
         <mxCell id="Abss3pmhYK2xFXCI5BWD-88" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;企微外部联系人、导购ID、人群名称（是否高价值）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="761" width="343.88" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Abss3pmhYK2xFXCI5BWD-89" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;预测结果集（pid+分值）&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Abss3pmhYK2xFXCI5BWD-89" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;预测结果集（pid+分值）&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="914" y="489" width="406" height="97" as="geometry" />
         </mxCell>
         <mxCell id="Abss3pmhYK2xFXCI5BWD-91" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;预测结果集（pid+分值）&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#006EAF;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
@@ -157,13 +157,13 @@
         <mxCell id="Abss3pmhYK2xFXCI5BWD-119" value="IDmapping及计算" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="468" y="642" width="143" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="Abss3pmhYK2xFXCI5BWD-120" value="公众号触达" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Abss3pmhYK2xFXCI5BWD-120" value="公众号触达" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="903" y="702.5" width="386" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="Abss3pmhYK2xFXCI5BWD-123" value="企业微信触达" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Abss3pmhYK2xFXCI5BWD-123" value="企业微信触达" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="903" y="754" width="386" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="Abss3pmhYK2xFXCI5BWD-124" value="短信投放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Abss3pmhYK2xFXCI5BWD-124" value="短信投放" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="903" y="807" width="386" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="Abss3pmhYK2xFXCI5BWD-127" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
