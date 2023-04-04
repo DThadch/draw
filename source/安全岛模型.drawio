@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T03:04:35.899Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DpTrffpYS7hezJECNVHP" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T05:30:50.970Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="avQ5SgouBE9TQh2b8nuy" version="21.1.2" type="github">
   <diagram name="第 1 页" id="9FNGOSTYdFmzoKh4jky8">
     <mxGraphModel dx="2020" dy="895" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,9 +76,6 @@
             <mxPoint x="447" y="687" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Abss3pmhYK2xFXCI5BWD-46" value="&lt;font color=&quot;#ffffff&quot;&gt;SFTP&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="846" y="667" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Abss3pmhYK2xFXCI5BWD-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0a7eb8;strokeColor=#006EAF;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="228" y="404" width="511" height="111" as="geometry" />
         </mxCell>
@@ -154,6 +151,9 @@
             <mxPoint x="804" y="304.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Abss3pmhYK2xFXCI5BWD-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Abss3pmhYK2xFXCI5BWD-115" target="Abss3pmhYK2xFXCI5BWD-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Abss3pmhYK2xFXCI5BWD-115" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;业务应用&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1040.25" y="651" width="98.5" height="30" as="geometry" />
         </mxCell>
@@ -161,13 +161,13 @@
           <mxGeometry x="468" y="642" width="143" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Abss3pmhYK2xFXCI5BWD-120" value="公众号触达" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="922.5" y="702.5" width="386" height="36.5" as="geometry" />
+          <mxGeometry x="903" y="702.5" width="386" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="Abss3pmhYK2xFXCI5BWD-123" value="企业微信触达" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="923" y="755" width="386" height="36.5" as="geometry" />
+          <mxGeometry x="903" y="754" width="386" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="Abss3pmhYK2xFXCI5BWD-124" value="短信投放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="923" y="806" width="386" height="36.5" as="geometry" />
+          <mxGeometry x="903" y="807" width="386" height="36.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
