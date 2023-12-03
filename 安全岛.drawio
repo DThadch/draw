@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T08:14:29.228Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aB2si_JIHQ1nSs7cuTYk" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T09:07:56.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6w6wVe_g1U_q1PDF3zCF" version="22.1.5" type="github">
   <diagram name="第 1 页" id="wJo2wd6JcxaJHejlNUAZ">
-    <mxGraphModel dx="2029" dy="2309" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2029" dy="2209" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -419,6 +419,183 @@
         </mxCell>
         <mxCell id="NkHdSyLVCIDAWrrlncBg-161" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
           <mxGeometry x="310" y="3560" width="250" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-163" value="安全岛-IDMapping" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="4674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-164" value="创&lt;br&gt;建&lt;br&gt;任&lt;br&gt;务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162" y="4789" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-166" value="数&lt;br&gt;据&lt;br&gt;计&lt;br&gt;算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="446" y="4785" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-167" value="场&lt;br&gt;景&lt;br&gt;应&lt;br&gt;用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="704" y="4789" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-168" value="C&lt;br&gt;D&lt;br&gt;P&lt;br&gt;人&lt;br&gt;群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="4969" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-169" value="文&lt;br&gt;件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208.5" y="4969" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-170" value="任&lt;br&gt;务&lt;br&gt;详&lt;br&gt;情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="5186" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-171" value="执&lt;br&gt;行&lt;br&gt;过&lt;br&gt;程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132" y="5186" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-172" value="任&lt;br&gt;务&lt;br&gt;列&lt;br&gt;表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185.5" y="5186" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-173" value="删&lt;br&gt;除&lt;br&gt;任&lt;br&gt;务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="238" y="5186" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-174" value="cdp-web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="4970" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-175" value="azkaban" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439.5" y="4969" width="51" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-176" value="S&lt;br&gt;M&lt;br&gt;C&lt;br&gt;画&lt;br&gt;像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="666" y="4972" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-177" value="模&lt;br&gt;型&lt;br&gt;应&lt;br&gt;用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="734" y="4972" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-178" value="spark" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="4971" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-179" value="提&lt;br&gt;交&lt;br&gt;job&lt;br&gt;任&lt;br&gt;务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332.25" y="5186" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-180" value="记&lt;br&gt;录&lt;br&gt;计&lt;br&gt;算&lt;br&gt;状&lt;br&gt;态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="391.25" y="5186" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-181" value="调&lt;br&gt;度&lt;br&gt;job&lt;br&gt;任&lt;br&gt;务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450.75" y="5186" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-182" value="执&lt;br&gt;行&lt;br&gt;人&lt;br&gt;群&lt;br&gt;出&lt;br&gt;库&lt;br&gt;计&lt;br&gt;算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510.25" y="5186" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-183" value="任&lt;br&gt;务&lt;br&gt;完&lt;br&gt;成&lt;br&gt;回&lt;br&gt;调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="564.75" y="5186" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-184" value="人&lt;br&gt;群&lt;br&gt;文&lt;br&gt;件&lt;br&gt;传&lt;br&gt;输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="5186" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-185" value="调&lt;br&gt;用&lt;br&gt;画&lt;br&gt;像&lt;br&gt;构&lt;br&gt;建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="704" y="5186" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-186" value="画&lt;br&gt;像&lt;br&gt;结&lt;br&gt;果&lt;br&gt;回&lt;br&gt;写" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="761" y="5186" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-187" value="sftp&lt;br&gt;传&lt;br&gt;输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="818" y="5186" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-188" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="179" y="4757" width="543" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-190" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="NkHdSyLVCIDAWrrlncBg-163">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462" y="4785" as="sourcePoint" />
+            <mxPoint x="511" y="4735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-191" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="132" y="4950" width="106.5" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-192" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="384.5" y="4952" width="161.5" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-193" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="681.5" y="4953" width="70.5" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-194" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="5134" width="147" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-195" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="348" y="5134" width="240" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-196" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="643.25" y="5134" width="195.75" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-197" value="安全岛-三方标签补充" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434.37" y="5541" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-198" value="创&lt;br&gt;建&lt;br&gt;任&lt;br&gt;务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="98.75" y="5660" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-199" value="数&lt;br&gt;据&lt;br&gt;计&lt;br&gt;算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476.5" y="5660" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-200" value="生&lt;br&gt;成&lt;br&gt;报&lt;br&gt;告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="854" y="5660" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-201" value="C&lt;br&gt;D&lt;br&gt;P&lt;br&gt;人&lt;br&gt;群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="51.75" y="5840" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-202" value="文&lt;br&gt;件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145.25" y="5840" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-203" value="执&lt;br&gt;行&lt;br&gt;过&lt;br&gt;程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="6057" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-204" value="任&lt;br&gt;务&lt;br&gt;列&lt;br&gt;表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168.5" y="6057" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-205" value="删&lt;br&gt;除&lt;br&gt;任&lt;br&gt;务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="6057" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-206" value="cdp-web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400.75" y="5844" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-207" value="azkaban" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="473.25" y="5843" width="51" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-210" value="spark" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="558.75" y="5845" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-211" value="提&lt;br&gt;交&lt;br&gt;job&lt;br&gt;任&lt;br&gt;务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353.25" y="6063" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-212" value="记&lt;br&gt;录&lt;br&gt;计&lt;br&gt;算&lt;br&gt;状&lt;br&gt;态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="6063" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-213" value="调&lt;br&gt;度&lt;br&gt;job&lt;br&gt;任&lt;br&gt;务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="493.5" y="6063" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-214" value="执&lt;br&gt;行&lt;br&gt;人&lt;br&gt;群&lt;br&gt;出&lt;br&gt;库&lt;br&gt;计&lt;br&gt;算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="561.5" y="6063" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-220" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="115.75" y="5631" width="757.25" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-221" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="NkHdSyLVCIDAWrrlncBg-197" source="NkHdSyLVCIDAWrrlncBg-220">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="398.75" y="5656" as="sourcePoint" />
+            <mxPoint x="447.75" y="5606" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-222" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="68.75" y="5821" width="106.5" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-223" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="418.25" y="5826" width="161.5" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-225" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="44.25" y="6008" width="198.75" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-226" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="381.75" y="6008" width="240" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-228" value="任&lt;br&gt;务&lt;br&gt;重&lt;br&gt;试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="13.75" y="6057" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-229" value="任&lt;br&gt;务&lt;br&gt;详&lt;br&gt;情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="6057" width="38" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-231" value="数&lt;br&gt;据&lt;br&gt;回&lt;br&gt;写CDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629.5" y="6063" width="38" height="152" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
