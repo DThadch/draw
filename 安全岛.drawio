@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T08:03:23.428Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2cJwEnURDi0IuVEx4ROF" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T08:14:29.228Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aB2si_JIHQ1nSs7cuTYk" version="22.1.5" type="github">
   <diagram name="第 1 页" id="wJo2wd6JcxaJHejlNUAZ">
-    <mxGraphModel dx="2029" dy="2209" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2029" dy="2309" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -317,6 +317,108 @@
         </mxCell>
         <mxCell id="NkHdSyLVCIDAWrrlncBg-127" value="生成报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347" y="3003" width="181" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-130" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NkHdSyLVCIDAWrrlncBg-131" target="NkHdSyLVCIDAWrrlncBg-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-131" value="创建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376.5" y="3390" width="121" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-132" value="推送安全岛" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299.5" y="3863" width="292" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-134" value="根据人群code，计算出pid+md5的人群包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="3764" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-135" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="NkHdSyLVCIDAWrrlncBg-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434.5" y="3709.000000000001" as="sourcePoint" />
+            <mxPoint x="482" y="3659" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-136" value="提交spark任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="433" y="3614" width="100" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-141" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NkHdSyLVCIDAWrrlncBg-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="3861" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-143" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299.5" y="3953" width="291.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-144" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="422" y="3912" as="sourcePoint" />
+            <mxPoint x="422" y="3953" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-145" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="448" y="3951" as="sourcePoint" />
+            <mxPoint x="448" y="3908" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-146" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NkHdSyLVCIDAWrrlncBg-147" target="NkHdSyLVCIDAWrrlncBg-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-147" value="模型训练任务完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375.5" y="4060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-148" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299" y="3889" as="sourcePoint" />
+            <mxPoint x="372" y="4090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="258" y="3889" />
+              <mxPoint x="256" y="4090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-149" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NkHdSyLVCIDAWrrlncBg-150" target="NkHdSyLVCIDAWrrlncBg-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-150" value="回调CDP，CDP拉取到模型报告和训练结果集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="4171" width="181" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-151" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="4431" width="95" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-152" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="433.5" y="4431" as="targetPoint" />
+            <mxPoint x="433.00000000000045" y="4400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-153" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="3464" width="249" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-154" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NkHdSyLVCIDAWrrlncBg-155" target="NkHdSyLVCIDAWrrlncBg-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-155" value="切包（高价值、低价值...）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="4251" width="181" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-156" value="输出切包结果到指定目录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="4343" width="181" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-157" value="正样本人群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="3517" width="102" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-158" value="负样本人群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="3517" width="102" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-159" value="打分集人群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="3517" width="102" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-160" value="cdp人群出库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="3649" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-162" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NkHdSyLVCIDAWrrlncBg-161" target="NkHdSyLVCIDAWrrlncBg-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NkHdSyLVCIDAWrrlncBg-161" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
+          <mxGeometry x="310" y="3560" width="250" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
