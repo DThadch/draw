@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T03:06:12.179Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.6" etag="ziLqaobqyepI-Vny5_mG" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T06:25:37.886Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="w3EWfU9EsJEuUyAVVABZ" version="23.1.6" type="github">
   <diagram name="第 1 页" id="c-7c_1tNbE0PKbpdtI3S">
-    <mxGraphModel>
+    <mxGraphModel dx="978" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UIdJtbCAdwfRkpfuNcCa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="230" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="UIdJtbCAdwfRkpfuNcCa-2" value="企微、公众号、crm&amp;nbsp; API数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIdJtbCAdwfRkpfuNcCa-3" value="AE小数仓数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIdJtbCAdwfRkpfuNcCa-4" value="BG数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIdJtbCAdwfRkpfuNcCa-5" value="CRM业务数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
