@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T12:21:39.949Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-KUGQ73VHjboLxP1FJBO" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T12:57:40.424Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-0dLkX_z-JLxHRg3tHDT" version="24.0.7" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1829" dy="174" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2305" dy="438" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-145" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;xgood(&lt;/b&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;商品配置中心&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;)&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-443" y="1497.1" width="335" height="270" as="geometry" />
+        </mxCell>
         <mxCell id="J9wxSw6iIS5L3MnxYvVa-85" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="695" y="769" width="2246" height="278" as="geometry" />
         </mxCell>
@@ -22,10 +25,7 @@
         <mxCell id="J9wxSw6iIS5L3MnxYvVa-117" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#F2F6FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="695" y="1122" width="2248" height="1661" as="geometry" />
         </mxCell>
-        <mxCell id="J9wxSw6iIS5L3MnxYvVa-53" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-522" y="885.2999999999998" width="427" height="2134.4" as="geometry" />
-        </mxCell>
-        <mxCell id="6a7d8f32e03d9370-58" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;TD数据中台&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-58" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;TD数据中台（BG数据）&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="73.75" y="1594.71" width="307" height="270" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-57" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;微信开放平台&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" parent="1" vertex="1">
@@ -49,17 +49,14 @@
         <mxCell id="gLpcdgS0-0nNWrfdr-57-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;企微数据&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="268.25" y="1467.1000000000001" width="67" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gLpcdgS0-0nNWrfdr-57-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;BG数据&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;每日平均数据量：50w&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;峰值：100w&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="142.87" y="1795" width="188.25" height="32.71" as="geometry" />
+        <mxCell id="gLpcdgS0-0nNWrfdr-57-14" value="&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;每日平均数据量：50w&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;峰值：100w&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="113" y="1798" width="218.12" height="29.71" as="geometry" />
         </mxCell>
-        <mxCell id="gLpcdgS0-0nNWrfdr-57-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;EZR&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="gLpcdgS0-0nNWrfdr-57-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;EZR（&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 15px; font-weight: 700;&quot;&gt;零售数据&lt;/span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;）&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="70" y="1892.6000000000001" width="311" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="gLpcdgS0-0nNWrfdr-57-17" value="零售数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="193" y="2092.6" width="82" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="gLpcdgS0-0nNWrfdr-57-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;南讯&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="73.75" y="2192.6" width="311.25" height="136.4" as="geometry" />
+          <mxGeometry x="61.75" y="2192" width="319.25" height="165.4" as="geometry" />
         </mxCell>
         <mxCell id="gLpcdgS0-0nNWrfdr-57-29" value="ETL服务器&lt;div style=&quot;font-size: 15px;&quot;&gt;*.*.200.247&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="832" y="1637" width="140" height="30" as="geometry" />
@@ -86,7 +83,7 @@
           <mxGeometry x="193.9999999999999" y="1667" width="76" height="89" as="geometry" />
         </mxCell>
         <mxCell id="J9wxSw6iIS5L3MnxYvVa-6" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.xenapp_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="192.9999999999999" y="1990.6000000000001" width="76" height="89" as="geometry" />
+          <mxGeometry x="192.9999999999999" y="1975.0000000000002" width="76" height="89" as="geometry" />
         </mxCell>
         <mxCell id="J9wxSw6iIS5L3MnxYvVa-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="716" y="815.5" width="340" height="180" as="geometry" />
@@ -452,35 +449,65 @@
         <mxCell id="J9wxSw6iIS5L3MnxYvVa-124" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AE用户行为数据&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="972" y="3322" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J9wxSw6iIS5L3MnxYvVa-132" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;电商数据&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;https://open.xtep.com.cn&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="159" y="2306" width="204" height="30" as="geometry" />
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-132" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https://open.xtep.com.cn&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="129" y="2316" width="204" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J9wxSw6iIS5L3MnxYvVa-133" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;e3&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="64" y="2667" width="308" height="270" as="geometry" />
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-133" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;全渠道&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-443" y="1170.6" width="337" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="J9wxSw6iIS5L3MnxYvVa-134" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.xenapp_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="201.9999999999999" y="2720" width="76" height="89" as="geometry" />
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-135" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;jdbc:mysql://rm-bp115iu8ek96bvag3.mysql.rds.aliyuncs.com&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;每日平均数据量：286w&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-382.75" y="1358" width="226.75" height="28.6" as="geometry" />
         </mxCell>
-        <mxCell id="J9wxSw6iIS5L3MnxYvVa-135" value="订单数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="218" y="2838" width="60" height="30" as="geometry" />
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-138" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;jdbc:mysql://192.168.87.227:3306/&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;每日平均数据量：1940w&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-398.69" y="1634.1" width="252.07" height="74.3" as="geometry" />
         </mxCell>
-        <mxCell id="J9wxSw6iIS5L3MnxYvVa-136" value="" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="67" y="2982" width="308" height="270" as="geometry" />
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-139" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;ecrm（南讯订单加会员数据）&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-432.28" y="2786" width="319.25" height="203.55" as="geometry" />
         </mxCell>
-        <mxCell id="J9wxSw6iIS5L3MnxYvVa-137" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.xenapp_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="204.9999999999999" y="3035" width="76" height="89" as="geometry" />
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-141" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;jdbc:mysql://rm-bp17l53es0hbg22pp.mysql.rds.aliyuncs.com:3306/&lt;/div&gt;&lt;div&gt;每日平均数据量：2200w&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-376.5" y="2900" width="222.5" height="52.85" as="geometry" />
         </mxCell>
-        <mxCell id="J9wxSw6iIS5L3MnxYvVa-138" value="订单数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="221" y="3153" width="60" height="30" as="geometry" />
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-142" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
+          <mxGeometry x="-306.37" y="2821" width="63.75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="J9wxSw6iIS5L3MnxYvVa-139" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;ecrm&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="69.12" y="2336" width="311.25" height="136.4" as="geometry" />
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-143" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
+          <mxGeometry x="-320.87" y="1240.6" width="63.75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="J9wxSw6iIS5L3MnxYvVa-140" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.xenapp_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="194.3699999999999" y="2366.4" width="76" height="89" as="geometry" />
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-144" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
+          <mxGeometry x="-318" y="1558" width="63.75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="J9wxSw6iIS5L3MnxYvVa-141" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;电商数据&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;https://open.xtep.com.cn&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="154.37" y="2449.4" width="204" height="30" as="geometry" />
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-146" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;e3(&lt;/b&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;E3 订单&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;)&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-443" y="1801" width="335" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-147" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;jdbc:mysql://rm-bp1u6iv84qz998efp.mysql.rds.aliyuncs.com&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;每日平均数据量：102w&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-400.19" y="1971.6" width="248.37" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-148" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
+          <mxGeometry x="-313.38" y="1868.6" width="63.75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-149" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;xcrm：ezr会员数据&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-431.75" y="2117.6" width="308" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-150" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;jdbc:mysql://172.17.200.237:59664/ezp-crm&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;每日平均数据量：232w&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-398.69" y="2287.6" width="248.37" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-151" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
+          <mxGeometry x="-311.88" y="2184.6" width="63.75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-152" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;跑发会员数据&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="2443.6" width="308" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-153" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
+          <mxGeometry x="-309.62" y="2510.6" width="63.75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-154" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;jdbc:mysql://rm-bp115iu8ek96bvag3.mysql.rds.aliyuncs.com&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;每日平均数据量：800w&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-379.75" y="2630" width="204" height="28.6" as="geometry" />
+        </mxCell>
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-155" value="&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;&quot;&gt;https://open-q1.ezrpro.com&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="118.75" y="2088" width="213" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="J9wxSw6iIS5L3MnxYvVa-157" value="&amp;nbsp;每日增量：9w" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="157" y="1508" width="148" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
