@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T06:51:36.405Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Jfi25VojWcCFbszv4kp5" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T06:57:18.567Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9NHM0eUfw3Vf72BbvPE0" version="24.0.7" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="5286" dy="1254" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5967" dy="1530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="J9wxSw6iIS5L3MnxYvVa-159" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-940" y="1122" width="1426" height="1144" as="geometry" />
+          <mxGeometry x="-924" y="1122" width="1426" height="1144" as="geometry" />
         </mxCell>
         <mxCell id="J9wxSw6iIS5L3MnxYvVa-145" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;xgood(&lt;/b&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;商品配置中心&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;)&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontSize=14;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-444" y="1551.4999999999998" width="338" height="270" as="geometry" />
@@ -502,9 +502,6 @@
         </mxCell>
         <mxCell id="J9wxSw6iIS5L3MnxYvVa-157" value="&amp;nbsp;每日增量：9w" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="157" y="1508" width="148" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hffFYfhX5snLX_torzpr-1" value="1.阿里云&lt;div&gt;2.南讯&lt;/div&gt;&lt;div&gt;3.ezr&lt;/div&gt;&lt;div&gt;4.TD&lt;/div&gt;&lt;div&gt;5.特步IDC&lt;/div&gt;&lt;div&gt;6.腾讯&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="681" y="486" width="1003" height="197" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
