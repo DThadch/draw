@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T02:06:46.649Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PTige9be1NaVgdTabUpA" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T02:07:24.647Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="b6RD9Zh3_vjTg6qabjR0" version="24.0.7" type="github">
   <diagram name="第 1 页" id="c-7c_1tNbE0PKbpdtI3S">
     <mxGraphModel dx="1907" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
         <mxCell id="UIdJtbCAdwfRkpfuNcCa-53" value="阿里QuickAudience" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1490" y="180" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UIdJtbCAdwfRkpfuNcCa-54" value="业务应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="UIdJtbCAdwfRkpfuNcCa-54" value="三方应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1440" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UIdJtbCAdwfRkpfuNcCa-55" value="人群洞察" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
