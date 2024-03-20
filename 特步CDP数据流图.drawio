@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T02:07:24.647Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="b6RD9Zh3_vjTg6qabjR0" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T02:07:44.222Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="5y0Au1HzuWNWClgFYCbo" version="24.0.7" type="github">
   <diagram name="第 1 页" id="c-7c_1tNbE0PKbpdtI3S">
     <mxGraphModel dx="1907" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -244,7 +244,7 @@
         <mxCell id="2bgQPDkZXDnPd8NtcOMJ-4" value="全渠道订单数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="156" y="316" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2bgQPDkZXDnPd8NtcOMJ-5" value="高潜模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="2bgQPDkZXDnPd8NtcOMJ-5" value="模型应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1532" y="666" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
