@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T14:19:23.732Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="RbPfbWN26Ysljfi_wSTr" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T14:31:38.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="SKaKnPU1s9jn8l_pbKhE" version="24.0.7" type="github">
   <diagram name="第 1 页" id="HZbxji-LXRyyVZfFe1fu">
-    <mxGraphModel dx="978" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1397" dy="779" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IUafePfx7aiVDy01qSZr-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="618" y="539" width="353" height="356" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="933" width="351" height="317" as="geometry" />
+        </mxCell>
         <mxCell id="0x9lJMbSukGHkaMYRuMV-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="150" y="100" width="350" height="330" as="geometry" />
         </mxCell>
@@ -66,6 +72,57 @@
             <mxPoint x="655" y="292.5" as="sourcePoint" />
             <mxPoint x="715" y="292.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="487" width="351" height="446" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-2" value="ECO(票券数据)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-3" value="CRS(酒店数据)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="936" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-4" value="TKT(票务数据)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1014" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-5" value="CIAM(用户数据)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="936" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-6" value="MFO(在线点餐数据)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1089" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-7" value="POMP(舆情数据)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="677" y="698" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-8" value="GEMS(客服数据)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-9" value="阿里(用户数据、订单数据)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="773" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-10" value="APP(用户数据、订单数据)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="856" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-11" value="POS(交易数据)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="858" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-12" value="EDH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="454" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-14" value="POMP(舆情数据)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="1089" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="971" width="347" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-17" value="Mysql" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="644" y="558" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-18" value="kafka" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="66" y="977" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IUafePfx7aiVDy01qSZr-19" value="OSS&amp;amp;SLS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="636" y="996" width="179" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
