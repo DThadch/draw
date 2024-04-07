@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T15:21:55.456Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="pPGEslaWdXVgJqZW6QWS" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T15:23:43.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xjBnA4Kp33NDwkAsM2r1" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Gs_7SkS8K4M7Ottqki5-">
     <mxGraphModel dx="1397" dy="1927" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="110" y="590" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dbtZBYnq_qSpKCE7O5eB-12" value="埋点数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="84" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dbtZBYnq_qSpKCE7O5eB-15" value="_td_first_use&lt;div&gt;首次使用事件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="400" y="390" width="120" height="40" as="geometry" />
@@ -78,8 +78,8 @@
         <mxCell id="dbtZBYnq_qSpKCE7O5eB-27" value="&lt;div&gt;app_end&lt;/div&gt;&lt;div&gt;退出事件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="400" y="790" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dbtZBYnq_qSpKCE7O5eB-30" value="一次完整的session会话" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="219" width="135" height="30" as="geometry" />
+        <mxCell id="dbtZBYnq_qSpKCE7O5eB-30" value="完整的session会话" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="219" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dbtZBYnq_qSpKCE7O5eB-32" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -124,11 +124,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dbtZBYnq_qSpKCE7O5eB-42" value="deviceProfile模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="400" width="60" height="30" as="geometry" />
+        <mxCell id="dbtZBYnq_qSpKCE7O5eB-42" value="用户属性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dbtZBYnq_qSpKCE7O5eB-43" value="data模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="530" width="60" height="30" as="geometry" />
+        <mxCell id="dbtZBYnq_qSpKCE7O5eB-43" value="用户行为" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dbtZBYnq_qSpKCE7O5eB-57" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" vertex="1" parent="1">
           <mxGeometry x="1030" y="425" width="170" height="110" as="geometry" />
